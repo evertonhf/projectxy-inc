@@ -1,10 +1,10 @@
 # projectxy-inc
 ## Descrição do projeto
 
-Este projet tem como objetivo demonstrar a apicabilidade  das seguintes tecnologias: **spring boot, spring Rest, spring data JPA, Maven.**
+Este projet tem como objetivo demonstrar a aplicabilidade  das seguintes tecnologias: **spring boot, spring Rest, spring data JPA, Maven.**
 
 A ideia principal é demonstrar de forma simples, como essas tecnologias podem ser empregadas na soluçãõ de problemas computacionais.
-O modelo conceitual da arquitetura e demonstrado abaixo juntamente com as informações pertinentes.
+O modelo conceitual da arquitetura é demonstrado abaixo juntamente com as informações pertinentes.
 
 !["Modelo conceitual"](https://github.com/evertonhf/projectxy-inc/blob/master/Modelo%20-%20Conceitual.png)
 
@@ -26,9 +26,9 @@ Pronto, com o maven já instalado e configurado, agora compile o projeto.  Nesse
 
 Caso queira alterar as configurações de acesso ao banco isso pode ser feito alterando o arquivo application.properties que se encontra no diretório "resources".
 
-A **execução** do projeto pode ser feita clicando com o botãõ direito do mouse sobre o arquivo "ProjectZupApplication", e escolhendo a opção "Run as > Java application". Neste instante o projeto será contruído e o servidor será inicializado na porta padrão 8080.
+A **execução** do projeto pode ser feita clicando com o botão direito do mouse sobre o arquivo "ProjectZupApplication", e escolhendo a opção "Run as > Java application". Neste instante o projeto será construído e o servidor será inicializado na porta padrão 8080.
 
-Para realizar os testes na aplicação pode-se utilizar uma extensão do navegador (Firefox, chrome etc...). A sugestão da extensão a serutilizada é o "postman", ou "Rester". A opção escolhida neste momento foi o RESTer e a instalção da extensão foi feita no firefox.
+Para realizar os testes na aplicação pode-se utilizar uma extensão do navegador (Firefox, chrome etc...). A sugestão da extensão a ser utilizada é o "postman", ou "Rester". A opção escolhida neste momento foi o RESTer e a instalção da extensão foi feita no firefox.
 
 A seguir, com o ambiente em execução, pode-se visualizar as imagens dos testes realizados.
 
