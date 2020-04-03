@@ -34,15 +34,25 @@ A seguir, com o ambiente em execução, pode-se visualizar as imagens dos testes
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: GET 
 
-### Recurso: http://localhost:8080/products/  -  Método HTTP: POST
+!["Banco vazio"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/GET%20-%200%20registros.png)
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: POST
+
+!["Primeiro registro inserido!"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/POST%20-%201%C2%BA%20registro.png)
+
+### Recurso: http://localhost:8080/products/  -  Método HTTP: POST
+!["Segundo registro inserido!"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/POST%20-%202%C2%BA%20registro.png)
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: GET
+!["Exibindo 2 registros!"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/GET%20-%202%20registros.png)
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: DELETE
+!["Excluindo registro id:8"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/DELETE%20-%20REGISTRO%208.png)
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: PUT
+!["Alterando registro id:7"](https://github.com/evertonhf/projectxy-inc/blob/master/prints/PUT%20-%20REGISTRO%207.png)
 
 ### Recurso: http://localhost:8080/products/  -  Método HTTP: GET
-Para implementaçõesfuturas o projeto pode-se desenvolver a parte do front-end (aplicativo android/IOS, uma página WEB nativa com Javascript ou utilizar as tecnologias react, AngularJS, Vue JS, dentre outras...)
+!["Exibindo 1 registro existente."](https://github.com/evertonhf/projectxy-inc/blob/master/prints/GET%20-%201%20registros.png)
+
+Para implementações futuras no projeto pode-se desenvolver a parte do front-end (aplicativo android/IOS, uma página WEB nativa com Javascript ou utilizar as tecnologias react, AngularJS, Vue JS, dentre outras...) juntamente com validações de campos, paginações e filtros de pesquisa, validação de autenticação através de tokens, enfim, implementações para melhorar a experiência do cliente que irá consumir nossos serviços.
