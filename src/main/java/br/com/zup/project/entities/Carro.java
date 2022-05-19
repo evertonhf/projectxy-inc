@@ -3,6 +3,8 @@ package br.com.zup.project.entities;
 public class Carro {
 	private long id;
 	private String nome;
+	private String email;
+	
 	public long getId() {
 		return id;
 	}
@@ -15,6 +17,13 @@ public class Carro {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	
 	
 	
 }
