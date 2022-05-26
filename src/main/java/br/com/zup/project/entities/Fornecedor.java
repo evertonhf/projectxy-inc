@@ -1,6 +1,7 @@
 package br.com.zup.project.entities;
 
 public class Fornecedor {
+        public int teste;
 	private long id;
 	private String nome;
 	
