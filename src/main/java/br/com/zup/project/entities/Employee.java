@@ -2,6 +2,11 @@ package br.com.zup.project.entities;
 
 import java.util.Objects;
 
+<<<<<<< HEAD
+=======
+//Comentario qualquer
+/*Arquivo desenvolvido por lucao*/
+>>>>>>> 774b8b2 (Alteracoes realizadas)
 public class Employee {
 
 	private int id;
