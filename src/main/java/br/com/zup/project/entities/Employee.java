@@ -2,6 +2,7 @@ package br.com.zup.project.entities;
 
 import java.util.Objects;
 
+//Comentario qualquer
 public class Employee {
 
 	private int id;
